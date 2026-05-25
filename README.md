@@ -332,4 +332,4 @@ MIT
 BBA Business & IT — LAB University of Applied Sciences, Espoo, Finland
 BSc Computer Science — FAST-NUCES
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/ali-kareem-26a428333/) · [GitHub](https://github.com/Alizk2000)
